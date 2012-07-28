@@ -1,7 +1,7 @@
 ## Parallel Rails Updating
 ### Orientation
 
-*Disclaimer: I may never use githbub the way it is intended. I have plans to share gems and projects that may involve collaboration, but I suspect most of my "projects" will be little more than code showcases.*
+*Disclaimer: I may never use github the way it is intended. I have plans to share gems and projects that may involve collaboration, but I suspect most of my "projects" will be little more than code showcases.*
 
 
 Michael Grosser posted a [cool application](http://grosser.it/2012/07/15/return-values-from-fork-fork_and_return/) of the Parallel gem (see blog _My Pragmatic life — a blog by Michael Grosser_ for more cool hacks). Here is the code posted...
